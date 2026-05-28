@@ -1,4 +1,5 @@
 # List of custom parts
 
-- Procedural Parts (v1.4.4)
-- QMSP's Life Support (v1.0.1)
+- Procedural Parts (v1.4.5)
+- QMSP's Life Support (v1.2)
+- Electricity Part Pack (1.0.1)
